@@ -7,7 +7,7 @@ import math
 pygame.init()
 
 # Configuración de la pantalla
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 900, 700
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Shooter Arcade - Modo Fácil")
 
